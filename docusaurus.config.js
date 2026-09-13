@@ -99,7 +99,7 @@ const config = {
           items: [
            {
              label: 'OsdagBridge User Guide',
-             to: '/docs/1-introduction',
+             href: 'https://osdagbridge.github.io/docs/1-introduction',
           },
         ],
      },
